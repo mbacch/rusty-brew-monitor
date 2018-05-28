@@ -1,0 +1,9 @@
+[package]
+name = "rusty-brew-monitor"
+version = "0.1.0"
+authors = ["mbacch <mdbacchetti@gmail.com>"]
+
+[dependencies]
+max31855 = { path = "/home/mark/dev/max31855" }
+linux-embedded-hal = "0.1.1"
+influent = "0.4.1"
